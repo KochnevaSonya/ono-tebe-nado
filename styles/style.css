@@ -327,7 +327,7 @@ body {
 .footer__social-list {
   display: flex;
   justify-content: end;
-  column-gap: 46.5px;
+  column-gap: 47.5px;
   list-style-type: none;
 }
 
